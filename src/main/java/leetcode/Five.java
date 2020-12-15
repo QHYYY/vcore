@@ -50,7 +50,6 @@ public class Five {
             Collection<Integer> values = map.values();
             Object[] objects = values.toArray();
             Arrays.sort(objects);
-        Object object = objects[map.size() - 1];
 
         return "";
 
